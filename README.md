@@ -28,3 +28,4 @@ El proyecto utiliza una arquitectura de **Server Components** para minimizar el 
 <img width="1606" height="1270" alt="ImagenQIMO2" src="https://github.com/user-attachments/assets/49872f59-7dce-41a1-8bbe-6ad930a34a79" />
 <img width="1606" height="1270" alt="ImagenQIMO3" src="https://github.com/user-attachments/assets/6c23db97-a33f-4f5c-b8b1-a8ff3068f090" />
 *Interfaz principal del panel administrativo gestionando métricas en tiempo real.*
+www.qimo-gym.com.ar
